@@ -1,0 +1,5 @@
+body{
+ background: rgb(0, 26, 255);
+ color: rgb(104, 65, 65);
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
